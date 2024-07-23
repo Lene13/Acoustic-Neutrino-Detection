@@ -2,5 +2,6 @@
 
 The figures in the fourth chapter of the thesis are made with the code files in this folder. 
 
-* Figure 17-21: *Gruneisen Parameter.ipybn*
-* Figure 22: *Absorption Coefficient.ipbyn*
+* Figure 17-21: *Gruneisen Parameter.ipynb*
+* Figure 22: *Absorption Coefficient.ipynb*
+* Figure 23: *Noise PSD.ipynb*
