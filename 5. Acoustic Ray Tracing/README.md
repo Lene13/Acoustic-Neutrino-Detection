@@ -8,6 +8,8 @@ The figures in the fourth chapter of the thesis are made with the code files in 
 * Figure 43: *PYLOS_topology_right_TL.ipynb* & *TANGANYIKA_topology_right_TL.ipynb*
 
 The data files used to make the above figures were created by the following code files also included in this folder.
-* PYLOShitdatarandom_10kHz.txt & TANGANYIKAhitdatarandom_10kHz(_1&_2).txt: *PYLOS_data_file.ipynb* & *TANGANYIKA_data_file.ipynb*
+* PYLOShitdatarandom_10kHz.txt: *PYLOS_data_file.ipynb*
+* TANGANYIKAhitdatarandom_10kHz(_1&_2).txt: *TANGANYIKA_data_file.ipynb*
 
 Note: The above notebooks all need to run within the Bellhop program. Simply copy and paste them into the same folder in which the bellhop.exe file is located and you will be able to run them. To get a better overview of how to download Bellhop, a word file called *Bellhop Installation Guides* including some references is added to this folder.
+Also note: TANGANYIKAhitdatarandom_10kHz_1 and TANGANYIKAhitdatarandom_10kHz_2 are supposed to be together in one file but this file succeeded the uploadable file size so they were split up. 
