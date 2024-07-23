@@ -1,6 +1,6 @@
 # 5. Acoustic Ray Tracing
 
-The figures in the fourth chapter of the thesis are made with the code files in this folder.
+The figures in the fifth chapter of the thesis are made with the code files in this folder.
 * Figure 29, 31-41, 44: *PYLOS_results10kHz.ipynb* & *TANGANYIKA_results10kHz.ipynb* (using data files: *PYLOShitdatarandom_10kHz.txt* & *TANGANYIKAhitdatarandom_10kHz(_1&_2).txt*)
 * Figure 30: *TANGANYIKA.ipynb*
 * Figure 42 left: *Neutrino Signal.ipybn*
