@@ -6,3 +6,4 @@ The figures in the fourth chapter of the thesis are made with the code files in 
 * Figure 22: *Absorption Coefficient.ipynb*
 * Figure 23&26: *Noise PSD.ipynb*
 * Figure 24&25: *Sea State Pylos vs. Tanganyika.ipynb*
+* Figure 27&28: *Noise Angle Dependency.ipynb*
