@@ -15,6 +15,10 @@ Note: The above notebooks all need to run within the Bellhop program. Simply cop
 
 Also note: TANGANYIKAhitdatarandom_10kHz_1 and TANGANYIKAhitdatarandom_10kHz_2 are supposed to be together in one file but this file succeeded the uploadable file size so they were split up. 
 
+
+
 [1] M. B. Porter, BELLHOP3D User Guide, Jul. 2016. *Heat, Light, and Sound Research, Inc*
+
 [2] M. B. Porter, The bellhop manual and user’s guide: Preliminary draft, Jan. 2011. [Online]. Available: https://oalib-acoustics.org/website_resources/Rays/HLS-2010-1.pdf.
+
 [3] J. C. Peterson & M. B. Porter, A robust interpolant for use in acoustic propagation modeling, Oct. 2021, *Heat, Light and Sound Research, Inc.*
