@@ -1,3 +1,40 @@
+#* Sea-Bird SBE 49 Data File:
+#* FileName = Z:\04_TestDive_02May16\Logging\Seabird\Dive01.hex
+#* Software Version Seasave V 7.21k
+#* Temperature SN = 0272
+#* Conductivity SN = 0272
+#* System UpLoad Time = May 10 2016 06:45:01
+#** N 36° 17' 32"
+#** E015° 58' 32"
+#* Real-Time Sample Interval = 0.2500 seconds
+#* System UTC = May 10 2016 06:45:01
+# nquan = 10                                
+# nvalues = 3507                        
+# units = specified
+# name 0 = prdM: Pressure, Strain Gauge [db]
+# name 1 = t4990C: Temperature [ITS-90, deg C]
+# name 2 = c0S/m: Conductivity [S/m]
+# name 3 = nbin: number of scans per bin
+# name 4 = density00: Density [density, Kg/m^3]
+# name 5 = sal00: Salinity, Practical [PSU]
+# name 6 = depSM: Depth [salt water, m], lat = 36.3
+# name 7 = svDM: Sound Velocity [Delgrosso, m/s]
+# name 8 = avgsvCM: Average Sound Velocity [Chen-Millero, m/s], minP = 7, minS = 25
+# name 9 = flag: flag
+# span 0 =      2.000,   3508.000       
+# span 1 =    13.7691,    18.5226       
+# span 2 =   4.618224,   5.107273       
+# span 3 =          3,        369       
+# span 4 =  1028.0101,  1044.0656       
+# span 5 =    38.5521,    39.0683       
+# span 6 =      1.985,   3453.629       
+# span 7 =    1512.67,    1566.09       
+# span 8 =       0.00,    1536.88       
+# span 9 = 0.0000e+00, 0.0000e+00       
+# interval = decibars: 1  
+
+
+
       2.000    18.2063   5.040612          6  1028.0570    38.6889      1.985    1520.63       0.00 0.0000e+00
       3.000    18.2476   5.051293          9  1028.0913    38.7417      2.978    1520.83       0.00 0.0000e+00
       4.000    18.2952   5.066097          8  1028.1467    38.8240      3.971    1521.07       0.00 0.0000e+00
