@@ -2,6 +2,7 @@
 
 The figures in the seventh chapter of the thesis are made with the code files in this folder.
 * Figure 53-54: *Pandepth paper NMin=20.ipynb*
+* FIgure 55: *Pandepth paper NMin=20 Comparison.ipynb*
 
 Note: The above file uses the effective volumes that were calculated with *Effective Volume Pylos (NMin Comparison).ipynb* and *Effective Volume Tanganyika (NMin Comparison).ipynb* from chapter 6.
 
