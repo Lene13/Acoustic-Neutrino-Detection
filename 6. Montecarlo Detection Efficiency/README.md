@@ -20,3 +20,5 @@ Data files used for Figure 45 & 46:
 * Tanganyika NMin=4.txt
 
 Note: The data files have been created with code from Kevin, which can be found at https://github.com/Kevinvo97/Hydrophones/tree/main. Additionally, the code used to create them can be found in the folder called *Event Detection Algorithm*.
+
+Another note: The data files are uploaded as well, but since they are too large to update at once, they have been uploaded in three parts. To used them it might be best to copy and paste them into one big file.
